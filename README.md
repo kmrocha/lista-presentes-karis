@@ -11,4 +11,4 @@ Página pessoal de lista de presentes, hospedada via GitHub Pages.
 5. Aguarde alguns segundos — o link aparecerá no topo da página
 
 Pronto! Sua lista ficará acessível em:
-`https://SEU-USUARIO.github.io/NOME-DO-REPOSITORIO`
+https://kmrocha.github.io/lista-presentes-karis/
